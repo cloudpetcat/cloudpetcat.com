@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on 上海阿莫尔科技有限公司</title>
-    <link>cloudpetcat.com/contact/</link>
+    <link>/contact/</link>
     <description>Recent content in Contact on 上海阿莫尔科技有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate>
     
-	<atom:link href="cloudpetcat.com/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

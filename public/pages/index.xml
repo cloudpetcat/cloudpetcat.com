@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on 上海阿莫尔科技有限公司</title>
-    <link>cloudpetcat.com/pages/</link>
+    <link>/pages/</link>
     <description>Recent content in Pages on 上海阿莫尔科技有限公司</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Dec 2018 09:29:16 +1000</lastBuildDate>
     
-	<atom:link href="cloudpetcat.com/pages/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>cloudpetcat.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>cloudpetcat.com/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>cloudpetcat.com/history/</link>
+      <link>/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>cloudpetcat.com/history/</guid>
+      <guid>/history/</guid>
       <description>About Heading </description>
     </item>
     
