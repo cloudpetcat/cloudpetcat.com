@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "cloudpetcat.com"
 languageCode = "en-us"
 title = "上海阿莫尔科技有限公司"
 theme = "hugo-hero-theme"
